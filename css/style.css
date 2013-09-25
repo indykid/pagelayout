@@ -1,0 +1,66 @@
+
+body {
+	background: url(../images/pattern1.png);
+	font-size: 12px;
+	color: black;
+	line-height: 1.4;
+	padding: 10px;
+	font-family: 'Oxygen', sans-serif;
+
+}
+
+
+
+#header {
+	background: red;
+	text-align: center;
+}
+
+#header,
+#main {
+	padding: 20px;
+}
+
+#footer {
+	background: red;
+	text-align: right;
+	padding: 10px;
+	color: white;
+
+}
+
+
+h1 {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 70px;
+	color: white
+	
+}
+
+h2 {
+	font-size: 32px;
+	line-height: 2;
+}
+#container {
+	width: 690px;
+	background: white;
+	margin: 0 auto;
+
+}
+
+h3 {
+	font-size: 22px;
+	line-height: 2;
+}
+
+cite {
+	color: blue;
+	font-style: italic;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+
+
